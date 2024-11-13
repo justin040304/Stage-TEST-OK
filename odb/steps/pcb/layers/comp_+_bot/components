@@ -1,0 +1,31 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+
+#
+#Component attribute text strings
+#
+
+# CMP 0
+CMP 20 30.734 62.738 0 N D7 DF3D6.8MS,LF ;0=1,1=0.8000
+PRP Breakdown_Voltage '6 V'
+PRP Cd_-_Diode_Capacitance '0.5 pF'
+PRP Clamping_Voltage '11 V'
+PRP Manufacturer 'Toshiba'
+PRP Maximum_Operating_Temperature '150 C'
+PRP Minimum_Operating_Temperature '-55 C'
+PRP Package/Case 'SOT-323-3'
+PRP RoHS 'Yes'
+PRP TOK_Order_Code 'XXXX'
+PRP Vesd_-_Voltage_ESD_Contact '8 kV'
+PRP Working_Voltage '5 V'
+TOP 0 31.58400084 63.237999 270 N 35 0 1
+TOP 1 31.58400084 62.23799846 270 N 36 0 2
+TOP 2 29.8840017 62.738 270 N 47 12 3
+#
