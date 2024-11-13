@@ -1,0 +1,23 @@
+Record=TopLevelDocument|FileName=Analog-IN Relays.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Analog-OUT Relays.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Beamstrip.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=CAN - UART transceiver.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Counters.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Digital-IN Relays (9..20) .SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Digital-OUT (Group 4) + SPI relays .SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Digital-OUT (Group 5) & Digital-IN (1..9) & Digital-OUT (Group 6).SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Digital-OUT Relays (Group 1,2,3) .SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Expansion.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=I2C devices.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=IO-expanders.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Module ID.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Power supply Relays .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Power supply.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Precidip.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Programmer.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=PWM, Board detect & Cover switch .SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=SPI devices.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=Switching connectors DMM & Power supply .SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=TCC Tester - TCC1800UE Connector Board 3x96 BOTTOM V2.0_22.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analog-IN Relays.SchDoc|FileName=UART devices.SchDoc|SheetNumber=15

@@ -1,0 +1,4 @@
+../Core/Src/inet.c:17:10:htons	16	static
+../Core/Src/inet.c:20:10:htonl	24	static
+../Core/Src/inet.c:35:10:ntohs	16	static
+../Core/Src/inet.c:38:10:ntohl	16	static

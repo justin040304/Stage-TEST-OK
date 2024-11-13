@@ -1,0 +1,288 @@
+Importer Log Report
+Project : Group
+
+Section : Analyze Document - C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\Relay_Addon_Board.brd
+    Analyzing data of C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\Relay_Addon_Board.brd
+    Load settings
+    Load layers 150
+    Load board
+    Load Library "Coto technology"
+    Load Packages 1
+    Load Library "Maxim"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 2
+    Load Library "led"
+    Load Packages 1
+    Load Library "holes"
+    Load Packages 1
+    Load Library "Wuerth_Elektronik_eiCan_01_Pin__Socked_Headers_v1_3"
+    Load Packages 1
+    Load Library "testpad"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\Relay_Addon_Board.sch
+    Analyzing data of C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\Relay_Addon_Board.sch
+    Load settings
+    Load layers 150
+    Load schematic
+    Load Libraries 9
+    Load Library "supply2"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rcl"
+    Load Packages 165
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "TestOK!"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Coto technology"
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "Maxim"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "led"
+    Load Packages 37
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "holes"
+    Load Packages 10
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Wuerth_Elektronik_eiCan_01_Pin__Socked_Headers_v1_3"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "testpad"
+    Load Packages 38
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 52
+    Load Sheets 1
+EndSection
+
+Section : Analyze Document - C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\TCC Tester - TCC1800UE Connector Board 3x96 BOTTOM V2.0.brd
+    Analyzing data of C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\TCC Tester - TCC1800UE Connector Board 3x96 BOTTOM V2.0.brd
+    Load settings
+    Load layers 159
+    Load board
+    Load Library "TEST-OK"
+    Load Packages 5
+    Load Library "rroDiscrete"
+    Load Packages 2
+    Load Library "74xx-eu"
+    Load Packages 1
+    Load Library "DC-DC Converters"
+    Load Packages 1
+    Load Library "microchip"
+    Load Packages 2
+    Load Library "rcl"
+    Load Packages 4
+    Load Library "SparkFun-Retired"
+    Load Packages 1
+    Load Library "TSX-3225"
+    Load Packages 1
+    Load Library "Maxim"
+    Load Packages 1
+    Load Library "Connectoren"
+    Load Packages 6
+    Load Library "con-tycoelectronics"
+    Load Packages 1
+    Load Library "Discrete Miscelaneous"
+    Load Packages 1
+    Load Library "max3051"
+    Load Packages 1
+    Load Library "resistor"
+    Load Packages 2
+    Load Library "Atmel"
+    Load Packages 1
+    Load Library "jumper"
+    Load Packages 2
+    Load Library "Texas Instruments"
+    Load Packages 5
+    Load Library "testpad"
+    Load Packages 2
+    Load Library "Resistors"
+    Load Packages 1
+    Load Library "led"
+    Load Packages 1
+    Load Library "Fuse"
+    Load Packages 1
+    Load Library "Sparkfun-DigitalIC"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 1
+    Load Library "lantronix"
+    Load Packages 1
+    Load Library "TEST OK addon boards"
+    Load Packages 2
+    Load Library "Diodes"
+    Load Packages 1
+    Load Library "Wurth-Spacer-Studs-&-Round-Spacers"
+    Load Packages 1
+    Load Library "diode"
+    Load Packages 1
+    Load Library "Switches"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\TCC Tester - TCC1800UE Connector Board 3x96 BOTTOM V2.0.sch
+    Analyzing data of C:\Users\stagiair\Documents\Stage Justin\kalibratiemodule EAGLE\TCC Tester - TCC1800UE Connector Board 3x96 BOTTOM V2.0.sch
+    Load settings
+    Load layers 159
+    Load schematic
+    Load Libraries 34
+    Load Library "supply2"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "TEST-OK"
+    Load Packages 12
+    Load Symbols 10
+    Load DeviceSets 5
+    Load Library "ompie"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rroDiscrete"
+    Load Packages 146
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "74xx-eu"
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "DC-DC Converters"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "microchip"
+    Load Packages 5
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "rcl"
+    Load Packages 340
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "SparkFun-Retired"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "TSX-3225"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "TestOK!"
+    Load Packages 0
+    Load Symbols 5
+    Load DeviceSets 4
+    Load Library "Maxim"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Connectoren"
+    Load Packages 12
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "con-tycoelectronics"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Discrete Miscelaneous"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "max3051"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "resistor"
+    Load Packages 86
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Atmel"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "jumper"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "Texas Instruments"
+    Load Packages 5
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "testpad"
+    Load Packages 38
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Resistors"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "led"
+    Load Packages 37
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Fuse"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Sparkfun-DigitalIC"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-Capacitors"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-LED"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "lantronix"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "TEST OK addon boards"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "Diodes"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Wurth-Spacer-Studs-&-Round-Spacers"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "diode"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Switches"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 3
+    Load Classes 1
+    Load Parts 492
+    Load Sheets 23
+    ERROR: Unhandled type <errors>
+EndSection

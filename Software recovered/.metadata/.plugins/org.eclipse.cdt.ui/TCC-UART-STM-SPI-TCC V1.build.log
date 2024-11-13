@@ -1,0 +1,10 @@
+12:19:15 **** Incremental Build of configuration Debug for project TCC-UART-STM-SPI-TCC V1 ****
+make -j6 all 
+arm-none-eabi-size  TCC-UART-STM-SPI-TCC\ V1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20492	     92	   2316	  22900	   5974	TCC-UART-STM-SPI-TCC V1.elf
+Finished building: default.size.stdout
+ 
+
+12:19:15 Build Finished. 0 errors, 0 warnings. (took 310ms)
+

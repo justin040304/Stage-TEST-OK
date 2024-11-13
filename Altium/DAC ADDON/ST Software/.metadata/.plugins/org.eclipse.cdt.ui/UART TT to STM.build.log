@@ -1,0 +1,10 @@
+12:26:03 **** Incremental Build of configuration Debug for project UART TT to STM ****
+make -j6 all 
+arm-none-eabi-size  UART\ TT\ to\ STM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17820	     92	   2116	  20028	   4e3c	UART TT to STM.elf
+Finished building: default.size.stdout
+ 
+
+12:26:03 Build Finished. 0 errors, 0 warnings. (took 264ms)
+

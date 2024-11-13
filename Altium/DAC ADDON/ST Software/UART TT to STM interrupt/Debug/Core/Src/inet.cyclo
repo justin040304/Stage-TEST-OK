@@ -1,0 +1,4 @@
+../Core/Src/inet.c:17:10:htons	1
+../Core/Src/inet.c:20:10:htonl	1
+../Core/Src/inet.c:35:10:ntohs	1
+../Core/Src/inet.c:38:10:ntohl	1

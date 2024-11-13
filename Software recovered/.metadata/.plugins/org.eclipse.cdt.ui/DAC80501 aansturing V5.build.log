@@ -1,0 +1,17 @@
+12:12:09 **** Incremental Build of configuration Debug for project DAC80501 aansturing V5 ****
+make -j6 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32L476xx -c -I../Core/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc -I../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "DAC80501 aansturing V5.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\stagiair\Documents\Stage Justin\Software recovered\DAC80501 aansturing V5\STM32L476RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="DAC80501 aansturing V5.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: DAC80501 aansturing V5.elf
+ 
+arm-none-eabi-size  DAC80501\ aansturing\ V5.elf 
+arm-none-eabi-objdump -h -S DAC80501\ aansturing\ V5.elf  > "DAC80501 aansturing V5.list"
+   text	   data	    bss	    dec	    hex	filename
+  36996	    468	   2140	  39604	   9ab4	DAC80501 aansturing V5.elf
+Finished building: default.size.stdout
+ 
+Finished building: DAC80501 aansturing V5.list
+ 
+
+12:12:10 Build Finished. 0 errors, 0 warnings. (took 966ms)
+

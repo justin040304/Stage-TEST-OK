@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;UART TT to STM to SPI V1/UART TT to STM.ioc&apos; to &apos;UART TT to STM to SPI V1.ioc&apos;" description="Rename resource &apos;UART TT to STM.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="UART TT to STM.ioc" name="UART TT to STM to SPI V1.ioc" stamp="1729691368869" updateReferences="true"/>
+</session>

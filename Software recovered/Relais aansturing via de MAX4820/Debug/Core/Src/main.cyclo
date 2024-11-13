@@ -1,0 +1,13 @@
+../Core/Src/main.c:62:6:MAX4820_Select	1
+../Core/Src/main.c:66:6:MAX4820_Deselect	1
+../Core/Src/main.c:71:6:MAX4820_SendData	1
+../Core/Src/main.c:81:6:MAX4820_5V_pos	1
+../Core/Src/main.c:87:6:MAX4820_60V_pos	1
+../Core/Src/main.c:92:6:MAX4820_5V_neg	1
+../Core/Src/main.c:98:6:MAX4820_60V_neg	1
+../Core/Src/main.c:114:5:main	1
+../Core/Src/main.c:165:6:SystemClock_Config	4
+../Core/Src/main.c:215:13:MX_SPI2_Init	2
+../Core/Src/main.c:255:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:290:13:MX_GPIO_Init	1
+../Core/Src/main.c:340:6:Error_Handler	1

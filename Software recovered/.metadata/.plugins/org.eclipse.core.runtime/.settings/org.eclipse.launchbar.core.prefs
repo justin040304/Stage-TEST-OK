@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC80501 aansturing Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART TT to STM Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais aansturing via de MAX4820 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais aansturing V2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC aansturing V3 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC ADDON Kalibreren Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC\ ADDON\ Kalibreren\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC\ ADDON\ Kalibreren\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC\ aansturing\ V3\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC\ aansturing\ V4\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC80501\ aansturing\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC80501\ aansturing\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais\ aansturing\ via\ de\ MAX4820\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais\ aansturing\ via\ de\ MAX4820\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TCC-UART-STM-SPI-TCC\ V1\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART\ TT\ to\ STM\ Debug/activeLaunchMode=debug

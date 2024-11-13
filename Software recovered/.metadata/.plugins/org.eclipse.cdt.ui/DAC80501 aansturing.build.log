@@ -1,0 +1,10 @@
+11:43:37 **** Incremental Build of configuration Debug for project DAC80501 aansturing ****
+make -j6 all 
+arm-none-eabi-size  DAC80501\ aansturing.elf 
+   text	   data	    bss	    dec	    hex	filename
+  36996	    468	   2140	  39604	   9ab4	DAC80501 aansturing.elf
+Finished building: default.size.stdout
+ 
+
+11:43:37 Build Finished. 0 errors, 0 warnings. (took 311ms)
+

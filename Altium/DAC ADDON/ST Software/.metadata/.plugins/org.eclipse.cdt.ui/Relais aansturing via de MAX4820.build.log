@@ -1,0 +1,10 @@
+16:50:59 **** Incremental Build of configuration Debug for project Relais aansturing via de MAX4820 ****
+make -j6 all 
+arm-none-eabi-size  Relais\ aansturing\ via\ de\ MAX4820.elf 
+   text	   data	    bss	    dec	    hex	filename
+  14640	     12	   1804	  16456	   4048	Relais aansturing via de MAX4820.elf
+Finished building: default.size.stdout
+ 
+
+16:50:59 Build Finished. 0 errors, 0 warnings. (took 323ms)
+

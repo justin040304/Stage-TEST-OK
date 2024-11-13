@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Send data PC to STM Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART TT to STM Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART TT to STM interrupt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TEST qwith onboard led 2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART TT to STm interrrupt V2 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART communication PC to STM Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais aansturing via de MAX4820 Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC80501 aansturing Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC80501\ aansturing\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC80501\ aansturing\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais\ aansturing\ via\ de\ MAX4820\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Relais\ aansturing\ via\ de\ MAX4820\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Send\ data\ PC\ to\ STM\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TEST\ qwith\ onboard\ led\ 2\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:TEST\ qwith\ onboard\ led\ 2\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART\ TT\ to\ STM\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UART\ communication\ PC\ to\ STM\ Debug/activeLaunchMode=run

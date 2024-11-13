@@ -1,0 +1,9 @@
+../Core/Src/message.c:31:18:message_init	16	static
+../Core/Src/message.c:37:6:message_free	24	static
+../Core/Src/message.c:46:18:message_parse	40	static
+../Core/Src/message.c:103:18:message_tlv_add	32	static
+../Core/Src/message.c:123:18:message_tlv_add_command	16	static
+../Core/Src/message.c:128:18:message_tlv_add_checksum	24	static
+../Core/Src/message.c:134:8:message_serialize	48	static
+../Core/Src/message.c:157:6:message_print	32	static
+../Core/Src/message.c:173:10:message_checksum	24	static
